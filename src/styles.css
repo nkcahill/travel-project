@@ -172,7 +172,8 @@ body {
   
   main p {
     font-style: normal;
-    font-weight: 400;
+    font-family: "Lexend Deca";
+    font-weight: 300;
     font-size: 16px;
     line-height: 1.5;
     color: #272044;
@@ -221,6 +222,26 @@ body {
     color: white;
     opacity: 0.7;
   }
+
+  .strap {
+    background-color: #EEEEEE;
+    padding: 40px;
+  }
+
+  .strap h4 {
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .strap p {
+    font-family: "Lexend Deca";
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 0;
+    line-height: 1.5;
+  }
+
+
   
   @media (max-width: 960px) {
     header {

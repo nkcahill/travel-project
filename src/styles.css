@@ -59,6 +59,10 @@ body {
   .card-footer {
     padding: 0 30px 30px;
   }
+
+  .card-image {
+    aspect-ratio: 1 /1;
+  }
   
   .btn {
     display: block;
